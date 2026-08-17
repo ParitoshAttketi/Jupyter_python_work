@@ -1,0 +1,6 @@
+INFO: Program started 
+ERROR: Invalid password
+INFO: User logged in
+ERROR: File not found
+WARNING: Low memory
+ERROR: Database connection failed
